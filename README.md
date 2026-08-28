@@ -2,7 +2,7 @@
 
 > **Threat-Aware Adaptive Representation Learning Network for Intelligent Intrusion Detection**
 
-A research-oriented implementation of **TARL-Net**, a hybrid deep learning framework for intelligent intrusion detection, zero-day attack recognition, self-supervised representation learning, open-set recognition, continual learning, and explainable cyber threat intelligence.
+A research-oriented implementation of **TGLF-Net**, a hybrid deep learning framework for intelligent intrusion detection, zero-day attack recognition, self-supervised representation learning, open-set recognition, continual learning, and explainable cyber threat intelligence.
 
 ---
 
@@ -329,7 +329,7 @@ If you use this repository in your research, please cite:
 
 ```bibtex
 @misc{hamzeh2026tarlnet,
-  title={TARL-Net: Threat-Aware Adaptive Representation Learning Network},
+  title={TGLF-Net},
   author={Reza Hamzeh},
   year={2026},
   note={Research implementation}
