@@ -1,4 +1,4 @@
-# TARL-Net
+# TGLF-Net
 
 > **Threat-Aware Adaptive Representation Learning Network for Intelligent Intrusion Detection**
 
