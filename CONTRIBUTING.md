@@ -1,6 +1,6 @@
-# Contributing to TARL-Net
+# Contributing to TGLF-Net
 
-Thank you for your interest in contributing to **TARL-Net (Threat-Aware Adaptive Representation Learning Network)**.
+Thank you for your interest in contributing to **TGLF-Net**.
 
 This project is a PhD-level research implementation in the field of **Cybersecurity, Deep Learning, and Intrusion Detection Systems (IDS)**. Contributions are welcome, but must follow academic and technical standards.
 
