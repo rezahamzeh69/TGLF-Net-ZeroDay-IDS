@@ -2,7 +2,7 @@
 
 ## Goal
 
-This document describes how security vulnerabilities should be reported for the **TARL-Net** repository and outlines the project's disclosure and response process.
+This document describes how security vulnerabilities should be reported for the **TGLF-Net** repository and outlines the project's disclosure and response process.
 
 > **Research Notice**
 >
